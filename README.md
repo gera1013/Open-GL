@@ -1,4 +1,4 @@
-# Openl-GL
+# Open-GL
 Obj loader using Pygame and OpenGL library
 
 ## Ejecución
